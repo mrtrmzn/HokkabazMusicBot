@@ -10,7 +10,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""Selam Ben {bn}
 
-Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
+__Sesli sohbetlerde müzik dinlemenize olanak sağlarım.__
 
           📜Kullanma Kılavuzu📜
 
@@ -21,7 +21,7 @@ Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
 💠 /stop - Botu kapatır.
 💠 /song - Şarkı aratır.
 
-🤖 @Zep_Unb tarafından @AtAvratCheesecake grubuna özel kodlanmıştır.
+🤖 Developer By @Zep_Unb
 
 **Grubunuza özel müzik botu yaptırmak için sahibim ile iletişime geçebilirsiniz.**
         """,
@@ -29,7 +29,7 @@ Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
             [
                 [
                     InlineKeyboardButton(
-                        "Sohbet Grubumuz", url="https://t.me/AtAvratCheesecake"
+                        "Sohbet Grubumuz", url="https://t.me/DepressionalistChat"
                     ),
                     InlineKeyboardButton(
                         "Grubunuza Özel Bot Yaptırmak İçin", url="https://t.me/MoolRehber"
