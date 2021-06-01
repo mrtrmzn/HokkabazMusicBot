@@ -23,7 +23,7 @@ __Sesli sohbetlerde müzik dinlemenize olanak sağlarım.__
 
 🤖 Developer By @Zep_Unb
 
-**Grubunuza özel müzik botu yaptırmak için sahibim ile iletişime geçebilirsiniz.**
+**15₺ Karşılığında grubunuza özel müzik botu yaptırmak için sahibim ile iletişime geçebilirsiniz.**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -32,7 +32,7 @@ __Sesli sohbetlerde müzik dinlemenize olanak sağlarım.__
                         "Sohbet Grubumuz", url="https://t.me/DepressionalistChat"
                     ),
                     InlineKeyboardButton(
-                        "Grubunuza Özel Bot Yaptırmak İçin", url="https://t.me/MoolRehber"
+                        "Özel Bot Yaptırmak İçin", url="https://t.me/MoolRehber"
                     )
                 ]
             ]
