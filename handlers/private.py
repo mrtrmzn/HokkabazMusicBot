@@ -10,7 +10,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""Selam Ben {bn}
 
-__Sesli sohbetlerde müzik dinlemenize olanak sağlarım.__
+Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
 
           📜Kullanma Kılavuzu📜
 
@@ -21,17 +21,18 @@ __Sesli sohbetlerde müzik dinlemenize olanak sağlarım.__
 💠 /stop - Botu kapatır.
 💠 /song - Şarkı aratır.
 
-🤖 @Zep_Unb tarafından @bidelio'ya özel kodlanmıştır.
-**Siz de özel bot yaptırmak istiyorsanız @Zep_Unb ile iletişime geçebilirsiniz.**
+Küçük bir ücret karşılığında (bağış niteliğinde) grubunuza özel müzik botu yaptırabilirsiniz detaylı bilgi için @MoolRehber kanalına göz atabilirsiniz.
+
+🤖 Developer by @Zep_Unb
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Destek Grubu", url="https://t.me/MoolRehber"
+                        "Sohbet Grubumuz💬", url="https://t.me/DepressionalistChat"
                     ),
                     InlineKeyboardButton(
-                        "Özel Bot Yaptırmak İçin", url="https://t.me/MoolRehber/7"
+                        "Kanalımız 📣", url="https://t.me/Depressionalist"
                     )
                 ]
             ]
