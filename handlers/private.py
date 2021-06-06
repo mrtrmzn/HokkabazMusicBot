@@ -10,7 +10,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""Selam Ben {bn}
 
-Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
+*Sesli sohbetlerde müzik dinlemenize olanak sağlarım.*
 
           📜Kullanma Kılavuzu📜
 
@@ -23,7 +23,7 @@ Sesli sohbetlerde müzik dinlemenize olanak sağlarım.
 
 Küçük bir ücret karşılığında (bağış niteliğinde) grubunuza özel müzik botu yaptırabilirsiniz detaylı bilgi için @MoolRehber kanalına göz atabilirsiniz.
 
-🤖 Developer by @Zep_Unb
+__🤖 Developer By @Zep_Unb__
         """,
         reply_markup=InlineKeyboardMarkup(
             [
