@@ -21,18 +21,17 @@ __Sesli sohbetlerde müzik dinlemenize olanak sağlarım.__
 💠 /stop - Botu kapatır.
 💠 /song - Şarkı aratır.
 
-🤖 Developer By @Zep_Unb
-
-**15₺ Karşılığında grubunuza özel müzik botu yaptırmak için sahibim ile iletişime geçebilirsiniz.**
+🤖 @Zep_Unb tarafından @bidelio'ya özel kodlanmıştır.
+**Siz de özel bot yaptırmak istiyorsanız @Zep_Unb ile iletişime geçebilirsiniz.**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Sohbet Grubumuz", url="https://t.me/DepressionalistChat"
+                        "Destek Grubu", url="https://t.me/MoolRehber"
                     ),
                     InlineKeyboardButton(
-                        "Özel Bot Yaptırmak İçin", url="https://t.me/MoolRehber"
+                        "Özel Bot Yaptırmak İçin", url="https://t.me/MoolRehber/7"
                     )
                 ]
             ]
