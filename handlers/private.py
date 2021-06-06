@@ -29,7 +29,7 @@ __🤖 Developer By @Zep_Unb__
             [
                 [
                     InlineKeyboardButton(
-                        "Sohbet Grubumuz💬", url="https://t.me/DepressionalistChat"
+                        "Sohbet Grubumuz 💬", url="https://t.me/DepressionalistChat"
                     ),
                     InlineKeyboardButton(
                         "Kanalımız 📣", url="https://t.me/Depressionalist"
