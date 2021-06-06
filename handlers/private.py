@@ -10,7 +10,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""Selam Ben {bn}
 
-*Sesli sohbetlerde müzik dinlemenize olanak sağlarım.*
+`Sesli sohbetlerde müzik dinlemenize olanak sağlarım.`
 
           📜Kullanma Kılavuzu📜
 
@@ -21,9 +21,9 @@ async def start(_, message: Message):
 💠 /stop - Botu kapatır.
 💠 /song - Şarkı aratır.
 
-Küçük bir ücret karşılığında (bağış niteliğinde) grubunuza özel müzik botu yaptırabilirsiniz detaylı bilgi için @MoolRehber kanalına göz atabilirsiniz.
+__Küçük bir ücret karşılığında grubunuza özel müzik botu yaptırabilirsiniz detaylı bilgi için iletişim @Zep_Unb.__
 
-__🤖 Developer By @Zep_Unb__
+**🤖 Developer By @Zep_Unb**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
