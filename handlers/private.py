@@ -12,7 +12,7 @@ async def start(_, message: Message):
 
 `Sesli sohbetlerde müzik dinlemenize olanak sağlarım.`
 
-          📜 Kullanım Kılavuzu 📜
+          **📜 Kullanım Kılavuzu 📜**
 
 💠 /play - __Şarkıyı oynatır.__
 💠 /pause - __Şarkıyı durdurur.__
@@ -27,12 +27,14 @@ __Grubunuza özel müzik botu yaptırabilirsiniz. Detaylı bilgi için iletişim
 
 ** © Developer By @Zep_Unb**
 
+`Eğer sen de altta bulunan butonlara grubunun ya da kanalının reklamını vermek istiyorsan iletişime geç!`
+
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Sohbet Grubumuz ", url="https://t.me/DepressionalistChat"
+                        "REKLAM BUTONU", url="https://t.me/DepressionalistChat"
                     ),
                     InlineKeyboardButton(
                         "Özel Bot Yaptırmak İçin", url="https://t.me/MoolRehber/7"
