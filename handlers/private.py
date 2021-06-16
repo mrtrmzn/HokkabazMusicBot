@@ -12,30 +12,30 @@ async def start(_, message: Message):
 
 `Sesli sohbetlerde müzik dinlemenize olanak sağlarım.`
 
-          📜Kullanma Kılavuzu📜
+          📜 Kullanım Kılavuzu 📜
 
-💠 /play - Şarkıyı oynatır.
-💠 /pause - Şarkıyı durdurur.
-💠 /resume - Şarkıyı devam ettirir.
-💠 /skip - Diğer şarkıya geçer.
-💠 /stop - Botu kapatır.
-💠 /song - Şarkı aratır.
+💠 /play - __Şarkıyı oynatır.__
+💠 /pause - __Şarkıyı durdurur.__
+💠 /resume - __Şarkıyı devam ettirir.__
+💠 /skip - __Diğer şarkıya geçer.__
+💠 /stop - __Botu kapatır.__
+💠 /song - __Şarkı aratır.__
 
-`Tamamiyle Türkçe altyapı ile kodlanmış müzik botunu kullanabilmek için @TurkishMusi
+`Tamamiyle Türkçe altyapı ile kodlanmış müzik botunu kullanabilmek için @TurkishMusicRobot kanalına göz atabilirsiniz.`
 
-__Küçük bir ücret karşılığında grubunuza özel müzik botu yaptırabilirsiniz detaylı bilgi için iletişim @Zep_Unb.__
+__Grubunuza özel müzik botu yaptırabilirsiniz. Detaylı bilgi için iletişim @Zep_Unb.__
 
-**🤖 Developer By @Zep_Unb**
+** © Developer By @Zep_Unb**
 
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Sohbet ", url="https://t.me/DepressionalistChat"
+                        "Sohbet Grubumuz ", url="https://t.me/DepressionalistChat"
                     ),
                     InlineKeyboardButton(
-                        "Kanalımız 📣", url="https://t.me/Depressionalist"
+                        "Özel Bot Yaptırmak İçin", url="https://t.me/MoolRehber/7"
                     )
                 ]
             ]
