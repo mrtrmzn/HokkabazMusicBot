@@ -10,7 +10,7 @@ from helpers.filters import command, other_filters
 from helpers.decorators import errors, authorized_users_only
 
 
-@Client.on_message(command("pause") & other_filters)
+@Client.on_message(command("dur") & other_filters)
 @errors
 @authorized_users_only
 async def pause(_, message: Message):
@@ -25,7 +25,7 @@ async def pause(_, message: Message):
         await message.reply_text(f"`Müzik durduruldu!`")
 
 
-@Client.on_message(command("resume") & other_filters)
+@Client.on_message(command("basla") & other_filters)
 @errors
 @authorized_users_only
 async def resume(_, message: Message):
@@ -40,7 +40,7 @@ async def resume(_, message: Message):
         await message.reply_text(f"`Müziğe devam ediliyor...`")
 
 
-@Client.on_message(command("stop") & other_filters)
+@Client.on_message(command("kapat") & other_filters)
 @errors
 @authorized_users_only
 async def stop(_, message: Message):
@@ -56,7 +56,7 @@ async def stop(_, message: Message):
         await message.reply_text(f"`Bot kapatıldı! Görüşürüüzzz😉❤️!`")
 
 
-@Client.on_message(command("skip") & other_filters)
+@Client.on_message(command("gec") & other_filters)
 @errors
 @authorized_users_only
 async def skip(_, message: Message):
