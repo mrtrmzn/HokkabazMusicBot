@@ -21,19 +21,17 @@ async def start(_, message: Message):
 💠 /kapat - __Botu kapatır.__
 💠 /sarkiara - __Şarkı aratır.__
 
-__Grubunuza özel müzik botu yaptırabilirsiniz. Detaylı bilgi için iletişim @Zep_Unb.__
-
-** 🤖 Developer By @Zep_Unb**
+** 🤖 Editor By @magandasahip**
 
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Destek Kanalı", url="https://t.me/TurkishMusicRobot"
+                        "Sohbet Grubu 💬", url="https://t.me/duslersokagii"
                     ),
                     InlineKeyboardButton(
-                        "Özel Bot Yaptırmak İçin", url="https://t.me/MoolRehber/7"
+                        "Destek Ekibi 🔰", url="https://t.me/magandadestek"
                     )
                 ]
             ]
