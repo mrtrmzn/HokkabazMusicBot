@@ -23,16 +23,14 @@ async def start(_, message: Message):
 
 __Grubunuza özel müzik botu yaptırabilirsiniz. Detaylı bilgi için iletişim @Zep_Unb.__
 
-** © Developer By @Zep_Unb**
-
-`Eğer sen de altta bulunan butonlara grubunun ya da kanalının reklamını vermek istiyorsan iletişime geç!`
+** 🤖 Developer By @Zep_Unb**
 
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Reklam Butonu", url="https://t.me/TurkishMusicRobot"
+                        "Destek Kanalı", url="https://t.me/TurkishMusicRobot"
                     ),
                     InlineKeyboardButton(
                         "Özel Bot Yaptırmak İçin", url="https://t.me/MoolRehber/7"
