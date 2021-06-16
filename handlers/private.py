@@ -25,7 +25,7 @@ async def start(_, message: Message):
 
 __Grubunuza özel müzik botu yaptırabilirsiniz. Detaylı bilgi için iletişim @Zep_Unb.__
 
-** 🤖 Developer By @Zep_Unb**
+**🤖 Developer By @Zep_Unb**
 
         """,
         reply_markup=InlineKeyboardMarkup(
