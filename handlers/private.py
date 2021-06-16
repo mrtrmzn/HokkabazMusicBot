@@ -14,14 +14,12 @@ async def start(_, message: Message):
 
           **📜 Kullanım Kılavuzu 📜**
 
-💠 /play - __Şarkıyı oynatır.__
-💠 /pause - __Şarkıyı durdurur.__
-💠 /resume - __Şarkıyı devam ettirir.__
-💠 /skip - __Diğer şarkıya geçer.__
-💠 /stop - __Botu kapatır.__
-💠 /song - __Şarkı aratır.__
-
-`Tamamiyle Türkçe altyapı ile kodlanmış müzik botunu kullanabilmek için @TurkishMusicRobot kanalına göz atabilirsiniz.`
+💠 /oynat - __Şarkıyı oynatır.__
+💠 /dur - __Şarkıyı durdurur.__
+💠 /baslat - __Şarkıyı devam ettirir.__
+💠 /gec - __Diğer şarkıya geçer.__
+💠 /kapat - __Botu kapatır.__
+💠 /sarkiara- __Şarkı aratır.__
 
 __Grubunuza özel müzik botu yaptırabilirsiniz. Detaylı bilgi için iletişim @Zep_Unb.__
 
@@ -34,7 +32,7 @@ __Grubunuza özel müzik botu yaptırabilirsiniz. Detaylı bilgi için iletişim
             [
                 [
                     InlineKeyboardButton(
-                        "REKLAM BUTONU", url="https://t.me/DepressionalistChat"
+                        "Reklam Butonu", url="https://t.me/TurkishMusicRobot"
                     ),
                     InlineKeyboardButton(
                         "Özel Bot Yaptırmak İçin", url="https://t.me/MoolRehber/7"
