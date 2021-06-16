@@ -23,8 +23,8 @@ STRING_NAME almak için:
    - `API_ID` :  Telegram hesabınıza ait API_ID giriniz.
    - `API_HASH` :  Telegram hesabınıza ait API_HASH giriniz.
    - `STRING_NAME` :  String key almak için tıklayın [buraya](https://repl.it/@subinps/getStringName)
-   - `BOT_TOKEN` :  Bot token giriniz. [@Botfather](https://t.me/botfather) Botfather'dan oluşturduğunuz botun tokeni.
-   - `SUDO_USERS` :  Bot sahibinin id'sini giriniz.)(1677773634) 
+   - `BOT_TOKEN` :  Bot token giriniz. [@Botfather](https://t.me/botfather)'dan oluşturduğunuz botun tokeni.
+   - `SUDO_USERS` :  Bot sahibinin id'sini giriniz.) (1677773634) 
    - 
 
 
