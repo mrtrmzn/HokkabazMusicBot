@@ -16,10 +16,10 @@ async def start(_, message: Message):
 
 💠 /oynat - __Şarkıyı oynatır.__
 💠 /dur - __Şarkıyı durdurur.__
-💠 /baslat - __Şarkıyı devam ettirir.__
+💠 /basla - __Şarkıyı devam ettirir.__
 💠 /gec - __Diğer şarkıya geçer.__
 💠 /kapat - __Botu kapatır.__
-💠 /sarkiara- __Şarkı aratır.__
+💠 /sarkiara - __Şarkı aratır.__
 
 __Grubunuza özel müzik botu yaptırabilirsiniz. Detaylı bilgi için iletişim @Zep_Unb.__
 
