@@ -1,6 +1,6 @@
 <h1 align="centre">Mool Music Bot 🎶</h1>
 
-## Requirements 📝
+## Gereksinimler
 
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
