@@ -1,4 +1,4 @@
-<h1 align="centre">Mool Music Bot 🎶</h1>
+<h1 align="centre">Turkish Music Robot 🎶</h1>
 
 ## Gereksinimler
 
