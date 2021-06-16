@@ -8,7 +8,7 @@ from helpers.filters import other_filters2
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
     await message.reply_text(
-        f"""Selam Ben {bn}
+        f"""**Selam Ben {bn}**
 
 `Sesli sohbetlerde müzik dinlemenize olanak sağlarım.`
 
@@ -21,15 +21,18 @@ async def start(_, message: Message):
 💠 /stop - Botu kapatır.
 💠 /song - Şarkı aratır.
 
+`Tamamiyle Türkçe altyapı ile kodlanmış müzik botunu kullanabilmek için @TurkishMusi
+
 __Küçük bir ücret karşılığında grubunuza özel müzik botu yaptırabilirsiniz detaylı bilgi için iletişim @Zep_Unb.__
 
 **🤖 Developer By @Zep_Unb**
+
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Sohbet Grubumuz 💬", url="https://t.me/DepressionalistChat"
+                        "Sohbet ", url="https://t.me/DepressionalistChat"
                     ),
                     InlineKeyboardButton(
                         "Kanalımız 📣", url="https://t.me/Depressionalist"
