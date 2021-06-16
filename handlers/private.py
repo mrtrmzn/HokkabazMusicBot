@@ -21,7 +21,7 @@ async def start(_, message: Message):
 💠 /stop - __Botu kapatır.__
 💠 /song - __Şarkı aratır.__
 
-`Tamamiyle Türkçe altyapı ile kodlanmış müzik botunu kullanabilmek için @TurkishMusicRobot kanalına göz atabilirsiniz.`
+`Tamamiyle Türkçe altyapı ile kodlanmış müzik botunu kullanmak için @TurkishMusicRobot kanalına göz atabilirsiniz.`
 
 __Grubunuza özel müzik botu yaptırabilirsiniz. Detaylı bilgi için iletişim @Zep_Unb.__
 
