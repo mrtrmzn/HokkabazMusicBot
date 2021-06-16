@@ -25,6 +25,6 @@ STRING_NAME almak için:
    - `STRING_NAME` :  String key almak için tıklayın [buraya](https://repl.it/@subinps/getStringName)
    - `BOT_TOKEN` :  Bot token giriniz. [@Botfather](https://t.me/botfather)'dan oluşturduğunuz botun tokeni.
    - `SUDO_USERS` :  Bot sahibinin id'sini giriniz.) (1677773634) 
-   - 
+
 
 
